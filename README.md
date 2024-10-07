@@ -1,0 +1,2 @@
+- hi. I'm Sirozera.
+- I'm currently learning c++.
